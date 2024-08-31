@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Aman Sinha
+# Hi there! 👋 I'm [Your Name]
+
+![Coder GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
 I'm a passionate software developer with expertise in Full Stack Development, Game Development, and 3D Modeling. My focus is on creating impactful and user-friendly applications using modern web technologies.
 
@@ -22,6 +24,12 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 - [Discord Clone](https://discordclonefrontend.vercel.app) - A full-featured communication platform.
 - [Bhartiya Krishi Vyapar](https://your-ecommerce-site-link) - An e-commerce website for agricultural products.
 
+## 📊 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amangh30&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amangh30&layout=compact&theme=radical)
+
 ## 📫 How to Reach Me
 
 - GitHub: [amangh30](https://github.com/amangh30)
@@ -36,6 +44,8 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 - **Tools & Platforms:** Git, Netlify, Vercel, Render, Ubuntu
 
 ## 🌟 Fun Fact
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 When I'm not coding, I enjoy exploring new games, working on 3D modeling projects, or diving into the latest tech trends.
 
