@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Aman Sinha
 
 ![Coder GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
@@ -9,7 +9,7 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 - 💻 I specialize in **React Native**, **MERN Stack**, and **Three.js**.
 - 🎮 Founder and developer at **Snow-Loft**, where I created games using **Unreal Engine** and **Unity**.
 - 📊 Proficient in **C++** and **Data Structures & Algorithms (DSA)**.
-- 🌐 Developed an e-commerce website called **Bhartiya Krishi Vyapar** and a **Discord clone** using the MERN stack.
+- 🌐 Developed various projects such as a **WhatsApp Clone** and a **Discord clone** using the MERN stack.
 - 🛠️ Currently working on **Next.js** projects, focusing on seamless server-side rendering and real-time applications with **Socket.io**.
 
 ## 🌱 What I’m Working On
@@ -22,7 +22,6 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 
 - [WhatsApp Clone](https://soft-ganache-829582.netlify.app) - A real-time messaging app.
 - [Discord Clone](https://discordclonefrontend.vercel.app) - A full-featured communication platform.
-- [Bhartiya Krishi Vyapar](https://your-ecommerce-site-link) - An e-commerce website for agricultural products.
 
 ## 📊 GitHub Stats
 
