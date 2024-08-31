@@ -6,7 +6,7 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 
 ## 🚀 About Me
 
-- 💻 I specialize in **React Native**, **MERN Stack**, and **Three.js**.
+- 💻 I specialize in **React Native**, **MERN Stack**, and **NextJS**.
 - 🎮 Founder and developer at **Snow-Loft**, where I created games using **Unreal Engine** and **Unity**.
 - 📊 Proficient in **C++** and **Data Structures & Algorithms (DSA)**.
 - 🌐 Developed various projects such as a **WhatsApp Clone** and a **Discord clone** using the MERN stack.
