@@ -25,8 +25,6 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amangh30&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amangh30&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
