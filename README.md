@@ -32,8 +32,8 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 ## 📫 How to Reach Me
 
 - GitHub: [amangh30](https://github.com/amangh30)
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: [Your Email](mailto:your.email@example.com)
+- LinkedIn: [Aman Sinha](https://www.linkedin.com/in/aman-sinha-gh/)
+- Email: [amansinha561@gmail.com](mailto:amansinha561@gmaill.com)
 
 ## 🛠️ Tech Stack
 
