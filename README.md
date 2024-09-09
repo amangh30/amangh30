@@ -22,7 +22,7 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 
 - [WhatsApp Clone](https://soft-ganache-829582.netlify.app) - A real-time messaging app.
 - [Discord Clone](https://discordclonefrontend.vercel.app) - A full-featured communication platform.
-- [Discord Clone](https://whisprnet.vercel.app) - An anonymous social-media platform.
+- [WhisprNet](https://whisprnet.vercel.app) - An anonymous social-media platform.
 
 ## 📊 GitHub Stats
 
