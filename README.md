@@ -14,7 +14,7 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 
 ## 🌱 What I’m Working On
 
-- 📱 Enhancing my portfolio with projects that include a social section.
+- 📱 Completing the #200DaysOfDSA challenge.
 - 🌐 Developing a website to connect with businesses for custom website development services.
 - 💼 Open to **work-from-home** jobs and internships in **MERN Stack** development.
 
@@ -22,6 +22,7 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 
 - [WhatsApp Clone](https://soft-ganache-829582.netlify.app) - A real-time messaging app.
 - [Discord Clone](https://discordclonefrontend.vercel.app) - A full-featured communication platform.
+- [Discord Clone](https://whisprnet.vercel.app) - An anonymous social-media platform.
 
 ## 📊 GitHub Stats
 
