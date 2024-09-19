@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Aman Sinha
 
-![Coder GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
 I'm a passionate software developer with expertise in Full Stack Development, Game Development, and 3D Modeling. My focus is on creating impactful and user-friendly applications using modern web technologies.
 
