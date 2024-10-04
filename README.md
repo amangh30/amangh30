@@ -15,7 +15,7 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 ## 🌱 What I’m Working On
 
 - 📱 Completing the #200DaysOfDSA challenge.
-- 🌐 Developing a website to connect with businesses for custom website development services.
+- 🌐 Devloping a WEB3 voting website.
 - 💼 Open to **work-from-home** jobs and internships in **MERN Stack** development.
 
 ## 💡 Projects
