@@ -38,7 +38,7 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, React Native, Next.js, Three.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB,Postgress,MySQL
+- **Backend:** Node.js, Express.js, MongoDB, Postgress, MySQL
 - **Game Development:** Unreal Engine, Unity
 - **Tools & Platforms:** Git, Netlify, Vercel, Render, Ubuntu
 
