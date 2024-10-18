@@ -42,6 +42,9 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 - **Game Development:** Unreal Engine, Unity
 - **Tools & Platforms:** Git, Netlify, Vercel, Render, Ubuntu
 
+## 💥 Languages
+Python, C, C++, Java, JavaScript
+
 ## 🌟 Fun Fact
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
