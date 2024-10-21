@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Aman Sinha
+# Hey there! 👋 I'm Aman Sinha
 
 ![Coder GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
