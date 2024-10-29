@@ -43,7 +43,7 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 - **Tools & Platforms:** Git, Netlify, Vercel, Render, Ubuntu
 
 ## 💥 Languages
-C, C++, Java, JavaScript
+C, C++, Java, JavaScript, Python
 
 ## 🌟 Fun Fact
 
