@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=amangh30&color=blue)
+
 # Hey there! 👋 I'm Aman Sinha
 
 ![Coder GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
