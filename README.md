@@ -47,7 +47,7 @@ I'm a passionate software developer with expertise in Full Stack Development, Ga
 ## 💥 Languages
 C, C++, Java, Python, JavaScript
 
-## 🌟 FunFact
+## 🌟 Fun Fact
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
